@@ -1,0 +1,16 @@
+README.md
+pyproject.toml
+./cider_ws/__init__.py
+./cider_ws/cli.py
+./cider_ws/client.py
+./cider_ws/commands.py
+./cider_ws/models.py
+cider_ws.egg-info/PKG-INFO
+cider_ws.egg-info/SOURCES.txt
+cider_ws.egg-info/dependency_links.txt
+cider_ws.egg-info/entry_points.txt
+cider_ws.egg-info/requires.txt
+cider_ws.egg-info/top_level.txt
+tests/test_commands.py
+tests/test_integration_optional.py
+tests/test_models.py
