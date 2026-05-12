@@ -20,7 +20,7 @@ A standalone Python SDK/CLI for Cider v1's WebSocket API (`ws://127.0.0.1:26369`
 ## Quick start
 
 ```bash
-cd /home/runner/work/Cider/Cider/python
+cd python
 python -m venv .venv
 source .venv/bin/activate
 pip install -e .
@@ -39,12 +39,12 @@ cider-ws search --term "Daft Punk" --limit 5
 
 ## SDK example
 
-See: `/home/runner/work/Cider/Cider/python/examples/basic_usage.py`
+See: `examples/basic_usage.py`
 
 ## Tests
 
 ```bash
-cd /home/runner/work/Cider/Cider/python
+cd python
 python -m unittest discover -s tests -v
 ```
 
